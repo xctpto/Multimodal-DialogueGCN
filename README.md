@@ -1,6 +1,6 @@
 # Multimodal-DialogueGCN
 
-This repository contains the code accompanying the MSc dissertation at the Computer Science Department of UCL.
+This repository contains the code accompanying the MSc Data Science and Machine Learning dissertation.
 
 For the results as included in the written report, see results folder that contains a jupyter notebook version of the code, with the results and outputs. 
 
