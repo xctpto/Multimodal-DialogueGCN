@@ -4,7 +4,7 @@ from tqdm import tqdm
 import pickle
 
 import utils
-from Sample import Sample
+
 
 log = utils.get_logger()
 
